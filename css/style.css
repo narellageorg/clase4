@@ -1,0 +1,11 @@
+    /* TABLA */
+
+    .tg  {border-collapse:collapse; }
+    .tg td, th{border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;text-align: center; vertical-align: center;}
+
+    .tg .vier { background-color:#E3F2C1; }
+    .tg .sab { background-color:#C9DBB2; }
+    .tg .dom { background-color:#AAC8A7; }
+    .tg b  { font-size: 20px; }
+    .tg .hor { font-style: italic; }
